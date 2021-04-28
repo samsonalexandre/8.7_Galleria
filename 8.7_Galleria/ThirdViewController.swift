@@ -15,11 +15,6 @@ class ThirdViewController: UIViewController {
     var viewOne = UIView()
     
     
-    
-    var viewTwo = UIView()
-    var viewThree = UIView()
-    
-    
     var colorArray = [UIColor.green, UIColor.blue, UIColor.purple]
 
     override func viewDidLoad() {
