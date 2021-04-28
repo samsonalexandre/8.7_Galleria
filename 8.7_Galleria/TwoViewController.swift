@@ -4,19 +4,7 @@
 //
 //  Created by Alexandre Samson on 14.04.21.
 //
-/*
-let imageView1 = UIImageView(frame: CGRect(x: 20, y: 60, width: 175,height: 250))
-let label1 = UILabel(frame: CGRect(x: 20, y: 330, width: 175, height: 50))
 
-let imageView2 = UIImageView(frame: CGRect(x: 230, y: 60, width: 175,height: 250))
-let label2 = UILabel(frame: CGRect(x: 230, y: 330, width: 175, height: 50))
-
-let imageView3 = UIImageView(frame: CGRect(x: 20, y: 400, width: 175,height: 250))
-let label3 = UILabel(frame: CGRect(x: 20, y: 670, width: 175, height: 50))
-
-let imageView4 = UIImageView(frame: CGRect(x: 230, y: 400, width: 175,height: 250))
-let label4 = UILabel(frame: CGRect(x: 230, y: 670, width: 175, height: 50))
-*/
 
 import UIKit
 
